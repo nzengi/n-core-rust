@@ -1,1 +1,1 @@
-# n-core-rust
+# n-core-rust ** huff_core modelling
